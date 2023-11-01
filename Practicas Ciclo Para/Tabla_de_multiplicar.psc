@@ -1,5 +1,5 @@
 // Autor:Juan Gustavo Ángel Cruz Méndez
-//Fecha 31 de octubre del 2005
+//Fecha 31 de octubre del 2023
 //gbarron@untg.edu.mx
 Algoritmo Tablasdemultiplicar
 	definir n,c como entero;
