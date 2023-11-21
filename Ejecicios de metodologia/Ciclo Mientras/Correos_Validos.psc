@@ -1,5 +1,5 @@
 //Este algoritmo determnara si un correo es valido o invalido
-//Autor:n Juan Gustavo Ángel Cruz Méndez 
+//Autor: Juan Gustavo Ángel Cruz Méndez 
 //Gmail : gustavoangelc2005@gmail.com
 // Fecha : 21/11/2023
 Algoritmo  Correos
