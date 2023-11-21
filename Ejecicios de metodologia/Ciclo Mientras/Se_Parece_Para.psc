@@ -1,3 +1,7 @@
+// Este algoritmo escribe hola 10 veces 
+//Autor:n Juan Gustavo Ángel Cruz Méndez 
+//Gmail : gustavoangelc2005@gmail.com
+// Fecha : 21/11/2023
 Algoritmo Se_Parece_Para
 	definir contador como entero;
 	
