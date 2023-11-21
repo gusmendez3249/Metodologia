@@ -1,5 +1,5 @@
 //Este algoritmo fue una introdución al ciclo para
-//Autor:n Juan Gustavo Ángel Cruz Méndez 
+//Autor: Juan Gustavo Ángel Cruz Méndez 
 //Gmail : gustavoangelc2005@gmail.com
 // Fecha : 21/11/2023
 Algoritmo Ejer_mientras
