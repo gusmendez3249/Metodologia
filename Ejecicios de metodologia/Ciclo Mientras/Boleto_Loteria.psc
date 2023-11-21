@@ -1,5 +1,5 @@
 //Este algoritmo determinara cuanntos intentos se realizaron para sacar un número al azar
-//Autor:n Juan Gustavo Ángel Cruz Méndez 
+//Autor: Juan Gustavo Ángel Cruz Méndez 
 //Gmail : gustavoangelc2005@gmail.com
 // Fecha : 21/11/2023
 Algoritmo Boleto_Loteria
