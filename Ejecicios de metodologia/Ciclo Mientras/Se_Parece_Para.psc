@@ -7,7 +7,7 @@ Algoritmo Se_Parece_Para
 	
 	contador <- 1;
 	Mientras contador <= 10 Hacer
-		Escribir 'Hola';
+		Escribir contador, ' Hola';
 		contador <- contador + 1;
 	FinMientras
 	
