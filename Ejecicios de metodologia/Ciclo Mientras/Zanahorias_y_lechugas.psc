@@ -1,3 +1,7 @@
+// Este algoritmo conforme a un número ingresado simulara una hortaliza compuesta por zanahorias y lechugas
+//Autor: Juan Gustavo Ángel Cruz Méndez 
+//Gmail : gustavoangelc2005@gmail.com
+// Fecha : 21/11/2023
 Algoritmo Zanahorias_y_lechugas
 	definir h,c Como Entero;
 	escribir 'Ingrese cantidad de hortaliza:';
