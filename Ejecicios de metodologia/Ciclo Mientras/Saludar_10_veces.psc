@@ -1,5 +1,5 @@
 //Este algoritmo arroja un mensaje saludando 10 veces
-//Autor:n Juan Gustavo Ángel Cruz Méndez 
+//Autor: Juan Gustavo Ángel Cruz Méndez 
 //Gmail : gustavoangelc2005@gmail.com
 // Fecha : 21/11/2023
 Algoritmo Saludar_10_veces
