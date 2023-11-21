@@ -1,6 +1,10 @@
+//Este algoritmo determinara cuanntos intentos se realizaron para sacar un n√∫mero al azar
+//Autor:n Juan Gustavo √Ångel Cruz M√©ndez 
+//Gmail : gustavoangelc2005@gmail.com
+// Fecha : 21/11/2023
 Algoritmo Boleto_Loteria
 	definir num,c,a como entero ;
-	Escribir 'Ingrese un n˙mero que cree ganar·';
+	Escribir 'Ingrese un n√∫mero que cree ganar√°';
 	leer  num;
 	a <- azar(101);
 	c <- 1;
@@ -9,9 +13,9 @@ Algoritmo Boleto_Loteria
 		c<-c+1;
 	FinMientras
 	Si c <=100 Entonces
-		Escribir 'En ', c, 'Intentos se lograra sacar tu n˙mero elegido';
+		Escribir 'En ', c, 'Intentos se lograra sacar tu n√∫mero elegido';
 	SiNo
-		Escribir 'En 100 intentos no se logro sacar el n˙mero';
+		Escribir 'En 100 intentos no se logro sacar el n√∫mero';
 	FinSi
 	
 FinAlgoritmo
