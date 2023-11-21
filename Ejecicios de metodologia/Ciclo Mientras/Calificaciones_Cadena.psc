@@ -1,3 +1,7 @@
+// Este algoritmo extraera los números de lista y calificaciones de una cadena de textos 
+//Autor:n Juan Gustavo Ángel Cruz Méndez 
+//Gmail : gustavoangelc2005@gmail.com
+// Fecha : 21/11/2023
 Algoritmo Calificaciones_Cadena
 	definir c Como Caracter;
 	definir cont como entero;
